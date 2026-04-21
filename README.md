@@ -1,5 +1,5 @@
-### Ecommerce-SQL-Funnel-Analysis
-## Funnel analysis of the user journey for an e-commerce platform using BigQuery
+## Ecommerce-SQL-Funnel-Analysis
+### Funnel analysis of the user journey for an e-commerce platform using BigQuery
 <br>
 
 The objective of this project is to gain insights on the user's journey from view to purchase and the overall conversion rate.

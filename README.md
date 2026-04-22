@@ -14,7 +14,7 @@ I've also attached a pdf document with recommendations based on the insights, I 
 ### AI usage note for hiring representativess ###
 <br>
 <br>
-If AI use desired, I will use it, as I am proficient in prompt generation with ChatGPT and Gemini. 
+If AI use is desired, I will use it, as I am proficient in prompt generation with ChatGPT and Gemini. 
 I can also operate without it. 
 My process typically involves starting with writing my own SQL queries. The reason for this approach is that I want to make sure I understand the data I am looking at, and what insights I could gain with specific filters and aggregates. 
 Common use of AI is to quality check my work, see if there are more efficient methods for my queries. Any advanced suggestions are researched, as I do not want to rely on code I do not understand.

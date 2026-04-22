@@ -11,9 +11,8 @@ I've attached SQL scripts regarding the conversion rate, performance on various 
 I've also attached a pdf document with recommendations based on the insights, I used AI to help format the plan and offer some suggestions on what to add and how to better communicate the actions.
 
 <br>
-###
+### AI usage note for hiring representativess###
 <br>
-AI usage
 If AI use desired, I will use it, as I am proficient in prompt generation with ChatGPT and Gemini. 
 I can also operate without it. 
 My process typically involves starting with writing my own SQL queries. The reason for this approach is that I want to make sure I understand the data I am looking at, and what insights I could gain with specific filters and aggregates. 
